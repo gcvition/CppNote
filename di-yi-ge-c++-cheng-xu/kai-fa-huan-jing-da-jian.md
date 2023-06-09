@@ -2,7 +2,7 @@
 
 ## Windows
 
-
+todo
 
 ## Mac
 
@@ -29,6 +29,8 @@ InstalledDir: /opt/homebrew/opt/llvm/bin
 
 
 ## Ubuntu
+
+todo
 
 
 
