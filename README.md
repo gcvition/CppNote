@@ -29,3 +29,15 @@ C++ 被发明出来并标准化以后，演化速度并不快，下面的表格�
 * [https://www.runoob.com/cplusplus/cpp-tutorial.html](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 * [https://www.geeksforgeeks.org/the-c-standard-template-library-stl/](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
+
+
+## 本书环境
+
+* C++ 标准：C++20
+* IDE：CLion
+* 系统：arm64-apple-darwin21.6.0
+* 编译器：clang 16.0.5
+* Thread model: posix
+* LLVM：16.0.5
+* CMake：3.25
+
